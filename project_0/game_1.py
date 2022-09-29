@@ -30,3 +30,4 @@ def random_predict(number) -> int:
     return(count)
 
 print(f'Количество попыток: {random_predict(number)}')
+
