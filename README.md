@@ -1,5 +1,5 @@
-# My Data Science projects
-
+# My Data Science projects!
+ss
 ## Проекты
 
 * [Проект 0. Игра угадай число](https://github.com/Den2909/ML/blob/main/project_0/README.md)
